@@ -23,7 +23,11 @@ nav ol {
   list-style-type: none;
 }
 
-nav a {
+nav a: hover {
   color: #b42885;
   text-decoration: underline;
+}
+
+.intro {
+  font-size: 1rem;
 }
