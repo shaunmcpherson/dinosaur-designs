@@ -18,3 +18,12 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
+
+nav ol {
+  list-style-type: none;
+}
+
+nav a {
+  color: #b42885;
+  text-decoration: underline;
+}
