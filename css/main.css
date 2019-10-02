@@ -23,6 +23,12 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: "Patua One", sans-serif;
+}
+
+nav a {
+  color: #793284;
+  text-decoration: none;
 }
 
 nav ol {
